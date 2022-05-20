@@ -1,1 +1,13 @@
-# que-mugiwara-eres
+# ¿Qué mugiwara eres según tu signo? 
+
+_Soy muy fan de este anime y quería hacer algo relacionado con el, la idea surgió mientras estudiaba para una entrevista de trabajo._
+
+
+## Comenzando 🚀
+
+_Visita # para ingresar._
+
+
+## Construido con 🛠️
+
+_HTML, CSS y JavaScript._
